@@ -7,7 +7,7 @@ sections:
       text: عروض وخصومات شركة تكييفك
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: تكييفك
     text: >+
       [شركة تكييفك للتكييفات](https://takifak.com/)
 
